@@ -1,0 +1,21 @@
+.ehnii1{
+    display: flex;
+    width: 80%;
+    height: 100%;
+    gap: 20px;
+}
+.gugu{
+    width: 40%;
+    height: 100%;
+    background-color: black;
+}
+.gaga{
+    width: 40%;
+    height: 100%;
+    background-color: black;
+}
+.gigi{
+    width: 20%;
+    height: 100%;
+    background-color: black;
+}

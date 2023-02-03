@@ -1,0 +1,11 @@
+.tomy{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    gap: 20px;
+}
+.tomy1{
+    width: 20%;
+    height: 320px;
+    background-color: black;
+}

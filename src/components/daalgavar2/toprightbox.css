@@ -1,0 +1,27 @@
+.ehnii2{
+    width: 20%;
+    height: 100%;
+    
+    gap: 20px;
+}
+.lainji{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    gap: 20px;
+}
+.gg{
+    width: 45%;
+    height: 90%;
+    background-color: black;
+}
+.suga{
+    width: 45%;
+    height: 90%;
+    background-color: black;
+}
+.aw{
+    width: 100%;
+    height: 50%;
+    background-color: black;
+}
